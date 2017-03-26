@@ -4,7 +4,7 @@
 
 # 学习
 
-- 先从origin克隆下来，
+## 先从origin克隆下来，
  - 遇到提示
  ```
     The authenticity of host 'github.com (192.30.253.113)' can't be established.
@@ -13,7 +13,10 @@
  ```   
  - 输入yes，就ok了。哈哈
 
-- 设置忽略文件
+ 
+
+## 设置忽略文件
+
  - 直接在.git目录下填写文件夹
  - 比如build/ 、devel/ 就可以了。
   - 不需要加目录后加*，也不需要绝对路径。
