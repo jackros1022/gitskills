@@ -12,3 +12,8 @@
     Are you sure you want to continue connecting (yes/no)?
  ```   
  - 输入yes，就ok了。哈哈
+
+- 设置忽略文件
+ - 直接在.git目录下填写文件夹
+ - 比如build/ 、devel/ 就可以了。
+  - 不需要加目录后加*，也不需要绝对路径
